@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\uziel\OneDrive\Escritorio\22cs0318\5t  semestre\Desarrollo e implementación de sistemas\Datos.cs" Link="Datos.cs" />
+  </ItemGroup>
+
+</Project>
